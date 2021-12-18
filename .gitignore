@@ -129,6 +129,3 @@ dmypy.json
 .pyre/
 
 entorno-virtual
-*.pyc
-__pycache__
-.DS_Store
