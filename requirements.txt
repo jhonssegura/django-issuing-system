@@ -4,3 +4,4 @@ markdown
 django-filter
 gunicorn
 whitenoise
+psycopg2-binary
